@@ -1,1 +1,1 @@
-yum install epel-release gcc make mysql mysql-devel python-devel python-pip -y
+aptitude install epel-release gcc make python2-dev default-libmysqlclient-dev build-essential python-pip -y
